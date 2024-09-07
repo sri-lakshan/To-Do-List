@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "f2YXenWXHa1iMypOFIsMt95iFQEj2s0uksIriJi570M=",
+  "Source": "ToDoList.Server",
+  "BasePath": "_content/ToDoList.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\Lakshan\\source\\repos\\To Do List\\library_management_system.client\\ToDoList.client.esproj",
+      "Version": 2,
+      "Source": "ToDoList.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

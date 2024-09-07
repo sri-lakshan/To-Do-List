@@ -1,0 +1,2 @@
+C:\Users\Lakshan\source\repos\library_management_system\library_management_system.client\obj\Debug\ToDoList.client.esproj.CoreCompileInputs.cache
+C:\Users\Lakshan\source\repos\To Do List\library_management_system.client\obj\Debug\ToDoList.client.esproj.CoreCompileInputs.cache
